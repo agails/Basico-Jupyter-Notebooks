@@ -201,3 +201,34 @@ Resultado:
   "age": 25
 }
 ```
+
+## Mensagens de alerta com icones
+Um recurso muito legal é o de usar emojis para ilustrar algumas mensagens e que se utilzados em conjunto com outros recursos já vistos podem ser utilizados para a criação de alertas conforme segue:
+
+Markdown:
+
+~~~
+> **Nota** :memo: *Informações que o usuário deve observar, mesmo se for superficialmente.*
+
+> **Dica** :bulb: *Informações opcionais para ajudar um usuário a ter mais sucesso.*
+
+> **Importante** :exclamation: *Informações essenciais necessárias para o sucesso do usuário.*
+
+> **Cuidado** :no_entry: *Consequências potenciais negativas de uma ação.*
+
+> **Atenção** :warning: *Algumas consequências perigosas de uma ação.*
+~~~
+
+Resultado:
+
+> **Nota** :memo: *Informações que o usuário deve observar, mesmo se for superficialmente.*
+
+> **Dica** :bulb: *Informações opcionais para ajudar um usuário a ter mais sucesso.*
+
+> **Importante** :exclamation: *Informações essenciais necessárias para o sucesso do usuário.*
+
+> **Cuidado** :no_entry: *Consequências potenciais negativas de uma ação.*
+
+> **Atenção** :warning: *Algumas consequências perigosas de uma ação.*
+
+Para mais emojis indico visitar o repositório <https://gist.github.com/rxaviers/7360908>
