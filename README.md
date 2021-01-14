@@ -88,7 +88,7 @@ Resultado:
 ![teste](https://i2.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image3-1.png)
 
 ## Links
-Para criar um link, coloque o texto do link entre colchetes (por exemplo, [Duck Duck Go]) e siga-o imediatamente com o URL entre parênteses (por exemplo, (https://duckduckgo.com)).Você pode opcionalmente adicionar um título após o URL entre aspas.
+Para criar um link, coloque o texto do link entre colchetes (por exemplo, [Duck Duck Go]) e siga-o imediatamente com o URL entre parênteses (por exemplo, (https://duckduckgo.com)). Você pode opcionalmente adicionar um título após o URL entre aspas.
 
 Markdown:
 
