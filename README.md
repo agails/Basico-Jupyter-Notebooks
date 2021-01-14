@@ -158,13 +158,16 @@ A sintaxe básica do Markdown permite criar blocos de código recuando as linhas
 
 Markdown:
 
-\`\`\`<br>
-{<br>
-  "firstName": "John",<br>
-  "lastName": "Smith",<br>
-  "age": 25<br>
-}<br>
-\`\`\`<br>
+~~~ 
+```
+{
+"firstName": "John",
+"lastName": "Smith",
+"age": 2
+}
+
+```
+~~~
 
 Resultado:
 
@@ -180,15 +183,15 @@ Resultado:
 Muitos processadores Markdown suportam realce de sintaxe para blocos de código protegidos. Este recurso permite adicionar realce de cor para qualquer idioma em que seu código foi escrito. Para adicionar realce de sintaxe, especifique um idioma próximo aos crases antes do bloco de código protegido.
 
 Markdown:
-
-\`\`\`json<br>
-{<br>
-  "firstName": "John",<br>
-  "lastName": "Smith",<br>
-  "age": 25<br>
-}<br>
-\`\`\`
-
+~~~ 
+```json
+{
+"firstName": "John",
+"lastName": "Smith",
+"age": 25
+}
+```
+~~~
 Resultado:
 
 ```json
