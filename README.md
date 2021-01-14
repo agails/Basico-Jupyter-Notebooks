@@ -104,7 +104,8 @@ Meu mecanismo de pesquisa favorito é o [Duck Duck Go](https://duckduckgo.com "O
 Para transformar rapidamente um URL ou endereço de e-mail em um link, coloque-o entre colchetes angulares.
 ```
 <https://www.markdownguide.org>
-
+```
+```
 <fake@example.com>
 ```
 A saída renderizada é semelhante a esta:
