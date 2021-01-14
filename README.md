@@ -26,7 +26,9 @@ Na liguagem markdown temos o mesmo principio porem usamos `# ` (cerquilha e espa
 ## Citações em bloco
 Para criar um blockquote, adicione um `>` na frente de um parágrafo.
 
-\> Esse é o exemplo de uma citação em bloco
+Markdown:
+
+`> Esse é o exemplo de uma citação em bloco`
 
 A saída formatada é semelhante a esta:
 
@@ -38,7 +40,7 @@ Você pode organizar itens em listas ordenadas e não ordenadas.
 ### Listas Ordenadas
 Para criar uma lista ordenada, adicione itens de linha com números seguidos de pontos. Os números não precisam estar em ordem numérica, mas a lista deve começar com o número um.
 
-Lista em Markdown:
+Markdown:
 ```
 1. Primeiro item
 2. Segundo item
@@ -47,7 +49,7 @@ Lista em Markdown:
     2. Item recuado
 4. Quarto item
 ```
-Resultado Formatado:
+A saída formatada é semelhante a esta:
 
 1. Primeiro item
 2. Segundo item
@@ -59,7 +61,7 @@ Resultado Formatado:
 ### Listas não ordenadas
 Para criar uma lista não ordenada, adicione travessões `-`, asteriscos `*` ou sinais de adição `+` na frente dos itens de linha. Recue um ou mais itens para criar uma lista aninhada.
 
-Lista em Markdown:
+Markdown:
 
 ```
 - Primeiro item
@@ -67,7 +69,7 @@ Lista em Markdown:
 - Terceiro item
 - Quarto item 
 ```
-Resultado Formatado:
+A saída formatada é semelhante a esta:
 
 - Primeiro item
 - Segundo item
@@ -92,9 +94,9 @@ Para criar um link, coloque o texto do link entre colchetes (por exemplo, [Duck 
 
 Markdown:
 
-
+```
 Meu mecanismo de pesquisa favorito é \[Duck Duck Go\]\(https://duckduckgo.com "O melhor mecanismo de pesquisa"\).
-
+```
 
 A saída renderizada é semelhante a esta:
 
@@ -102,6 +104,8 @@ Meu mecanismo de pesquisa favorito é o [Duck Duck Go](https://duckduckgo.com "O
 
 
 Para transformar rapidamente um URL ou endereço de e-mail em um link, coloque-o entre colchetes angulares.
+Markdown:
+
 ```
 <https://www.markdownguide.org>
 ```
@@ -116,6 +120,9 @@ A saída renderizada é semelhante a esta:
 
 ## Tabelas
 Para adicionar uma tabela, use três ou mais hifens `---` para criar o cabeçalho de cada coluna e use barras verticais `|` para separar cada coluna. Opcionalmente, você pode adicionar pipes em qualquer extremidade da tabela.
+
+Markdown:
+
 ```
 | Sintaxe   | Descrição|
 | --------- |--------- |
