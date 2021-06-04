@@ -234,7 +234,3 @@ Resultado:
 Para mais emojis indico visitar o repositório <https://gist.github.com/rxaviers/7360908>
 
 Para conhecer ainda mais sobre Markdown sugiro consultar o <https://www.markdownguide.org>
-
-Para não ficar muito longo vamos falar sobre Python em outro Notebook. 
-
-# Até lá!
